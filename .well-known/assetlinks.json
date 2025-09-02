@@ -1,26 +1,9 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.EugenioGuidetti.PlatinaMI",
-      "sha256_cert_fingerprints": [
-        "9C:A3:25:43:30:A7:62:DD:B9:07:50:13:1D:4D:3A:1D:7A:30:9A:C9:17:A2:E0:F7:04:DE:77:4D:10:B5:0B:1D"
-      ]
-    }
-  },
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.EugenioGuidetti.PlatinaMI",
-      "sha256_cert_fingerprints": [
-        "A6:FA:91:10:5E:EB:89:C8:81:D7:22:53:8B:42:3C:9D:C3:4F:7A:BF:23:3B:3E:9F:AD:94:1B:C5:FE:A2:F5:39"
-      ]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.EugenioGuidetti.PlatinaMI",
+    "sha256_cert_fingerprints":
+    ["A6:FA:91:10:5E:EB:89:C8:81:D7:22:53:8B:42:3C:9D:C3:4F:7A:BF:23:3B:3E:9F:AD:94:1B:C5:FE:A2:F5:39"]
   }
-]
+}]
