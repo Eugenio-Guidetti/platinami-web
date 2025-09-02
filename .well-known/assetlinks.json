@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "eu.EugenioGuidetti.PlatinaMI.app",
+    "sha256_cert_fingerprints":
+    ["A6:FA:91:10:5E:EB:89:C8:81:D7:22:53:8B:42:3C:9D:C3:4F:7A:BF:23:3B:3E:9F:AD:94:1B:C5:FE:A2:F5:39"]
+  }
+}]
